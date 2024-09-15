@@ -1,0 +1,86 @@
+body{
+
+text-align: right;
+background-image: url(https://motionarray.imgix.net/preview-754860-QPpPbgy5TwE3P2kB-large.jpg?w=660&q=60&fit=max&auto=format);
+background-size: 100%;
+background-color: white;
+font-family: 'Times New Roman', Times, serif;
+
+}
+ nav ul{
+    list-style: none;
+   background-color: white;
+   display: flex;
+ justify-content: space-around;
+font-size: 30px;
+margin: 1rem;
+ }
+
+ nav a {
+    color: rgb(6, 8, 7);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30;
+    text-align: center;
+    text-decoration: none }
+nav a:hover{
+    color: rgb(239, 246, 239);
+    background-color: rgb(60, 95, 60);
+}
+ 
+ 
+
+
+
+h1{color: rgb(8, 8, 18);
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    
+
+text-align: center;}
+
+h2{
+    text-align: center;
+    padding-right: 7%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20;
+
+    padding-right: 10%;
+    padding-left: 74%;
+}
+
+
+
+h3{
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+ display: flex;
+ text-align: center;
+ margin-right: 25%;
+ margin-left: 10%;
+    color: white
+}
+
+.container1 {
+    color: rgb(7, 14, 14); 
+    text-align: left;
+    padding: 30px;
+    padding-bottom: 60px;
+    margin-left:30%;
+    margin-right: 30%;
+    font-size: 25px;
+    background-color: rgb(251, 252, 251);
+}
+
+
+
+.container2{
+    color: rgb(7, 14, 14); 
+    text-align: left;
+    padding: 30px;
+    padding-bottom: 60px;
+    margin-left:10%;
+    margin-right: 10%;
+    font-size: larger;
+    background-color: rgb(251, 252, 251);
+}
+
